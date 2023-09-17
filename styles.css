@@ -1,0 +1,31 @@
+body {
+    background: #fff;
+}
+
+header {
+    border: 1px black solid;
+}
+
+nav {
+    border: 1px solid red;
+    display: flex;
+    background: black;
+    color: #fff;
+}
+
+.logo {
+   flex: 1;
+}
+
+.nav-menu-list {
+    display: flex;
+    flex: 1;
+}
+
+.nav-menu-list li {
+    margin: 10px;
+}
+
+.nav-notify {
+    border: 1px solid green;
+}
